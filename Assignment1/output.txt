@@ -1,0 +1,505 @@
+Generated Array:
+[6519, 7331, 2579, 6487, 2212, 4246, 1028, 2953, 2327, 2874, 5031, 640, 8007, 8769, 9060, 2483, 6228, 7361, 7253, 9678, 6183, 9291, 9369, 2555, 7747, 8123, 3475, 3075, 7774, 8692, 1059, 644, 6022, 9989, 3483, 8233, 586, 862, 7538, 2913, 3735, 2568, 9904, 1741, 1336, 8963, 575, 3916, 2675, 7827, 3593, 5210, 7117, 9314, 7764, 4864, 7436, 1238, 4290, 1561, 9930, 5348, 8557, 5951, 5336, 8391, 536, 2274, 9252, 8073, 5186, 2986, 640, 5089, 1078, 8327, 403, 1653, 2242, 9429, 9479, 2187, 4638, 2948, 1500, 2402, 4163, 5287, 9991, 8452, 3199, 9920, 152, 1755, 2223, 1839, 6497, 2758, 4112, 5748, ]
+
+Number: 6519
+Odd
+Not Prime
+Factorial: 121645100408832000
+
+Number: 7331
+Odd
+Prime
+Factorial: 39916800
+
+Number: 2579
+Odd
+Prime
+Factorial: 121645100408832000
+
+Number: 6487
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 2212
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 4246
+Even
+Not Prime
+Factorial: 720
+
+Number: 1028
+Even
+Not Prime
+Factorial: 40320
+
+Number: 2953
+Odd
+Prime
+Factorial: 6227020800
+
+Number: 2327
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 2874
+Even
+Not Prime
+Factorial: 87178291200
+
+Number: 5031
+Odd
+Not Prime
+Factorial: 39916800
+
+Number: 640
+Even
+Not Prime
+Factorial: 1
+
+Number: 8007
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 8769
+Odd
+Not Prime
+Factorial: 362880
+
+Number: 9060
+Even
+Not Prime
+Factorial: 1
+
+Number: 2483
+Odd
+Not Prime
+Factorial: 6
+
+Number: 6228
+Even
+Not Prime
+Factorial: 40320
+
+Number: 7361
+Odd
+Not Prime
+Factorial: 1
+
+Number: 7253
+Odd
+Prime
+Factorial: 6227020800
+
+Number: 9678
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 6183
+Odd
+Not Prime
+Factorial: 6
+
+Number: 9291
+Odd
+Not Prime
+Factorial: 39916800
+
+Number: 9369
+Odd
+Not Prime
+Factorial: 362880
+
+Number: 2555
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 7747
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 8123
+Odd
+Prime
+Factorial: 6
+
+Number: 3475
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 3075
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 7774
+Even
+Not Prime
+Factorial: 87178291200
+
+Number: 8692
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 1059
+Odd
+Not Prime
+Factorial: 121645100408832000
+
+Number: 644
+Even
+Not Prime
+Factorial: 24
+
+Number: 6022
+Even
+Not Prime
+Factorial: 2
+
+Number: 9989
+Odd
+Not Prime
+Factorial: 362880
+
+Number: 3483
+Odd
+Not Prime
+Factorial: 6
+
+Number: 8233
+Odd
+Prime
+Factorial: 6227020800
+
+Number: 586
+Even
+Not Prime
+Factorial: 720
+
+Number: 862
+Even
+Not Prime
+Factorial: 2
+
+Number: 7538
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 2913
+Odd
+Not Prime
+Factorial: 6227020800
+
+Number: 3735
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 2568
+Even
+Not Prime
+Factorial: 40320
+
+Number: 9904
+Even
+Not Prime
+Factorial: 24
+
+Number: 1741
+Odd
+Prime
+Factorial: 1
+
+Number: 1336
+Even
+Not Prime
+Factorial: 20922789888000
+
+Number: 8963
+Odd
+Prime
+Factorial: 6
+
+Number: 575
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 3916
+Even
+Not Prime
+Factorial: 20922789888000
+
+Number: 2675
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 7827
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 3593
+Odd
+Prime
+Factorial: 6227020800
+
+Number: 5210
+Even
+Not Prime
+Factorial: 3628800
+
+Number: 7117
+Odd
+Not Prime
+Factorial: 355687428096000
+
+Number: 9314
+Even
+Not Prime
+Factorial: 87178291200
+
+Number: 7764
+Even
+Not Prime
+Factorial: 24
+
+Number: 4864
+Even
+Not Prime
+Factorial: 24
+
+Number: 7436
+Even
+Not Prime
+Factorial: 20922789888000
+
+Number: 1238
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 4290
+Even
+Not Prime
+Factorial: 3628800
+
+Number: 1561
+Odd
+Not Prime
+Factorial: 1
+
+Number: 9930
+Even
+Not Prime
+Factorial: 3628800
+
+Number: 5348
+Even
+Not Prime
+Factorial: 40320
+
+Number: 8557
+Odd
+Not Prime
+Factorial: 355687428096000
+
+Number: 5951
+Odd
+Not Prime
+Factorial: 39916800
+
+Number: 5336
+Even
+Not Prime
+Factorial: 20922789888000
+
+Number: 8391
+Odd
+Not Prime
+Factorial: 39916800
+
+Number: 536
+Even
+Not Prime
+Factorial: 20922789888000
+
+Number: 2274
+Even
+Not Prime
+Factorial: 87178291200
+
+Number: 9252
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 8073
+Odd
+Not Prime
+Factorial: 6227020800
+
+Number: 5186
+Even
+Not Prime
+Factorial: 720
+
+Number: 2986
+Even
+Not Prime
+Factorial: 720
+
+Number: 640
+Even
+Not Prime
+Factorial: 1
+
+Number: 5089
+Odd
+Not Prime
+Factorial: 362880
+
+Number: 1078
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 8327
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 403
+Odd
+Not Prime
+Factorial: 6
+
+Number: 1653
+Odd
+Not Prime
+Factorial: 6227020800
+
+Number: 2242
+Even
+Not Prime
+Factorial: 2
+
+Number: 9429
+Odd
+Not Prime
+Factorial: 362880
+
+Number: 9479
+Odd
+Prime
+Factorial: 121645100408832000
+
+Number: 2187
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 4638
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 2948
+Even
+Not Prime
+Factorial: 40320
+
+Number: 1500
+Even
+Not Prime
+Factorial: 1
+
+Number: 2402
+Even
+Not Prime
+Factorial: 2
+
+Number: 4163
+Odd
+Not Prime
+Factorial: 6
+
+Number: 5287
+Odd
+Not Prime
+Factorial: 5040
+
+Number: 9991
+Odd
+Not Prime
+Factorial: 39916800
+
+Number: 8452
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 3199
+Odd
+Not Prime
+Factorial: 121645100408832000
+
+Number: 9920
+Even
+Not Prime
+Factorial: 1
+
+Number: 152
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 1755
+Odd
+Not Prime
+Factorial: 1307674368000
+
+Number: 2223
+Odd
+Not Prime
+Factorial: 6
+
+Number: 1839
+Odd
+Not Prime
+Factorial: 121645100408832000
+
+Number: 6497
+Odd
+Not Prime
+Factorial: 355687428096000
+
+Number: 2758
+Even
+Not Prime
+Factorial: 6402373705728000
+
+Number: 4112
+Even
+Not Prime
+Factorial: 479001600
+
+Number: 5748
+Even
+Not Prime
+Factorial: 40320
+
+Prefix Sum: 496337
+Average: 4962.37
